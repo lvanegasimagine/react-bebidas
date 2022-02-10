@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencias Instaladas
+
+npm i axios
+npm install @mui/styles
+npm install @mui/material @emotion/react @emotion/styled
 ## Available Scripts
 
 In the project directory, you can run:
